@@ -58,8 +58,12 @@ text-align: center;
 
 footer {
 background-color:#d9043d;
-padding: 5 rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
 width:100%;
+margin: 0;
+text-align: center;
+color:white;
 }
 
 #gallery-container {
