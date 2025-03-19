@@ -21,6 +21,10 @@ width: 100%;
 margin:0;
 }
 
+.header-container img {
+    margin-top: 1rem;
+}
+
 nav {
 background-color:#120323;
 padding-top: 1rem;
